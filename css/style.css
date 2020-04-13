@@ -1,0 +1,268 @@
+body{
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 18px;
+  color: hsl(210, 10%, 33%);
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 50px;
+}
+header{
+  position: relative;
+}
+main{
+  margin-left: 0px;
+  position: relative;
+}
+footer{
+  width: 100%;
+  height: 160px;
+  background-color:hsl(201, 11%, 95%);
+  color:  hsl(210, 10%, 33%);
+  position: absolute;
+  top: 3150px;
+  left: 0px;
+}
+.header-img{
+  width: 100%;
+  height: 350px;
+}
+.header-logo{
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 571px;
+  top: 130px;
+}
+.head{
+  text-align: center;
+  position: absolute;
+  top: 278px;
+  left: 340px;
+}
+.p1{
+  font-size: 16px;
+}
+.topbtn-ios{
+  width: 180px;
+  border-radius: 40px;
+  padding: 10px;
+  border: none;
+  color: white;
+  background-color: hsl(171, 66%, 44%);
+  font-size: 15px;
+  box-shadow: 1px 2px 3px 0px #888888;
+  cursor: pointer;
+}
+.topbtn-ios:hover{
+  background-color: hsl(171, 50%, 41%);
+
+}
+.topbtn-mac{
+  width: 180px;
+  border-radius: 40px;
+  padding: 10px;
+  border: none;
+  color: white;
+  background-color: hsl(233, 100%, 69%);
+  font-size: 15px;
+  margin-left: 10px;
+  box-shadow: 1px 2px 3px 0px #888888;
+  cursor: pointer;
+}
+.topbtn-mac:hover{
+  background-color: hsl(233, 95%, 54%);
+
+}
+.c1{
+  text-align: center;
+  position: absolute;
+  top: 260px;
+  left: 330px;
+}
+.p2{
+  font-size: 15px;
+}
+.c2{
+  position: absolute;
+  top: 480px;
+}
+
+.computer-img{
+  position: relative;
+  right: 79px;
+  width: 695px;
+  height: 500px;
+
+}
+.p3{
+  font-size: 15px;
+  width: 500px;
+  height: 550px;
+  position: absolute;
+  top: 50px;
+  left: 710px;
+}
+.c3{
+  text-align: center;
+  position: absolute;
+  top: 1120px;
+  left: 330px;
+}
+.p4{
+  font-size: 15px;
+}
+.device-img{
+  width: 750px;
+  height: 505px;
+  position: absolute;
+  top: 1300px;
+  left: 230px;
+}
+.c4{
+  text-align: center;
+  position: absolute;
+  top: 1840px;
+  left: 440px;
+}
+.p5{
+  font-size: 14px;
+}
+.icons{
+  height: 550px;
+  width: 900px;
+  position: absolute;
+  top: 2010px;
+  left: 150px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+.p6{
+  font-size: 13px;
+}
+.p7{
+  font-size: 13px;
+}
+.p8{
+  font-size: 13px;
+  margin-top: 15px;
+}
+.blacklist-icon{
+  width: 25px;
+  height: 25px;
+}
+.text-icon{
+  width: 25px;
+  height: 25px;
+}
+.preview-icon{
+  width: 31px;
+  height: 20px;
+  margin-top: 5px;
+}
+.partners-logo{
+  position: absolute;
+  top: 2300px;
+  left: 110px;
+  justify-content: space-between;
+}
+.google-logo{
+
+}
+.ibm-logo{
+margin-left: 60px;
+margin-right: 60px;
+}
+.microsoft-icon{
+margin-bottom: 12px;
+}
+.hp-logo{
+margin-left: 60px;
+margin-right: 60px;
+}
+.vector-graphics-logo{
+margin-bottom: 12px;
+}
+.c5{
+  text-align: center;
+  position: absolute;
+  top: 2450px;
+  left: 310px;
+}
+.p9{
+  font-size: 15px;
+}
+.bottombtn-ios{
+  width: 180px;
+  border-radius: 40px;
+  padding: 10px;
+  border: none;
+  color: white;
+  background-color: hsl(171, 66%, 44%);
+  font-size: 15px;
+  box-shadow: 1px 2px 3px 0px #888888;
+  cursor: pointer;
+}
+.bottombtn-ios:hover{
+  background-color: hsl(171, 50%, 41%);
+
+}
+.bottombtn-mac{
+  width: 180px;
+  border-radius: 40px;
+  padding: 10px;
+  border: none;
+  color: white;
+  background-color: hsl(233, 100%, 69%);
+  font-size: 15px;
+  margin-left: 10px;
+  box-shadow: 1px 2px 3px 0px #888888;
+  cursor: pointer;
+}
+.bottombtn-mac:hover{
+  background-color: hsl(233, 95%, 54%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 35px;
+  }
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  cursor: pointer;
+}
+.footer-logo{
+  width: 50px;
+  height: 50px;
+  margin-top: 55px;
+  margin-left: 140px;
+}
+.f1{
+  line-height: 2.5;
+  position: absolute;
+  left: 300px;
+  bottom: 30px;
+  font-size: 14px;
+}
+.f2{
+    line-height: 2.5;
+    position: absolute;
+    left: 500px;
+    bottom: 30px;
+    font-size: 14px;
+}
+.f3{
+  position: absolute;
+  left: 700px;
+  bottom: 73px;
+  font-size: 14px;
+}
+.footer-icon{
+  position: absolute;
+  left: 1010px;
+  bottom: 65px;
+}
+.twitter-icon{
+  margin-left: 20px;
+  margin-right: 20px;
+}
